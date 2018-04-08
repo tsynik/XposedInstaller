@@ -38,15 +38,15 @@
         "21": "http://forum.xda-developers.com/xposed/official-xposed-lollipop-t3030118",
         "22": "http://forum.xda-developers.com/xposed/official-xposed-lollipop-t3030118",
         "23": "http://forum.xda-developers.com/xposed/discussion-xposed-marshmallow-t3249095",
-        "24": "https://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687",
-        "25": "https://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687"
+        "24": "http://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687",
+        "25": "http://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687"
       },
       "installers": {
         "15": [
           {
             "name": "Xposed-Installer-Recovery",
             "version": "58",
-            "link": "https://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
+            "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
           }
         ],
@@ -54,7 +54,7 @@
           {
             "name": "Xposed-Installer-Recovery",
             "version": "58",
-            "link": "https://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
+            "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
           }
         ],
@@ -62,7 +62,7 @@
           {
             "name": "Xposed-Installer-Recovery",
             "version": "58",
-            "link": "https://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
+            "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
           }
         ],
@@ -70,7 +70,7 @@
           {
             "name": "Xposed-Installer-Recovery",
             "version": "58",
-            "link": "https://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
+            "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
           }
         ],
@@ -78,7 +78,7 @@
           {
             "name": "Xposed-Installer-Recovery",
             "version": "58",
-            "link": "https://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
+            "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
           }
         ] %XPOSED_ZIP%
@@ -102,7 +102,7 @@
         }, {
           "name": "Xposed-Disabler-Recovery",
           "version": "20140101",
-          "link": "https://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Disabler-Recovery.zip?raw=true",
+          "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Disabler-Recovery.zip?raw=true",
           "architecture": "n/a"
         }
       ]
