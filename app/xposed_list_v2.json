@@ -44,7 +44,7 @@
       "installers": {
         "15": [
           {
-            "name": "Xposed-Installer-Recovery",
+            "name": "Xposed-Installer-Recovery (HTTP)",
             "version": "58",
             "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
@@ -52,7 +52,7 @@
         ],
         "16": [
           {
-            "name": "Xposed-Installer-Recovery",
+            "name": "Xposed-Installer-Recovery (HTTP)",
             "version": "58",
             "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
@@ -60,7 +60,7 @@
         ],
         "17": [
           {
-            "name": "Xposed-Installer-Recovery",
+            "name": "Xposed-Installer-Recovery (HTTP)",
             "version": "58",
             "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
@@ -68,7 +68,7 @@
         ],
         "18": [
           {
-            "name": "Xposed-Installer-Recovery",
+            "name": "Xposed-Installer-Recovery (HTTP)",
             "version": "58",
             "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
@@ -76,7 +76,7 @@
         ],
         "19": [
           {
-            "name": "Xposed-Installer-Recovery",
+            "name": "Xposed-Installer-Recovery (HTTP)",
             "version": "58",
             "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
             "architecture": "all"
@@ -100,7 +100,7 @@
           "link": "http://dl-xda.xposed.info/framework/uninstaller/xposed-uninstaller-20160829-x86.zip",
           "architecture": "x86"
         }, {
-          "name": "Xposed-Disabler-Recovery",
+          "name": "Xposed-Disabler-Recovery (HTTP)",
           "version": "20140101",
           "link": "http://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Disabler-Recovery.zip?raw=true",
           "architecture": "n/a"
